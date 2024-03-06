@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# stats_in_python.py
+# descriptive_stats.py
 
 """This program takes a user provided dataset as input
 and calculates the descriptive statistics of a user-specified column"""
